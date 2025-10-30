@@ -1,0 +1,41 @@
+site_name: Queen's University
+theme:
+        name: material
+
+        icon: 
+                logo: material/github # 左上角图标的修改
+
+        # language: zh # 右上角搜索改成中文
+
+        palette:
+                primary: teal # 顶部背景颜色
+
+        features:
+                - navigation.top # 返回顶部的按钮
+                - navigation.tabs # 顶部导航
+                - search.highlight # 搜索高亮
+
+copyright: Queen's # 左下角声明
+
+nav:
+
+- Home: 
+        - Home: index.md
+
+- Edward Cao:
+        - name1: EC/1.md
+
+- PUBLICATIONS:
+        - name1: PUBLICATIONS/1.md
+        - name2: PUBLICATIONS/2.md
+
+- RESEARCH:
+        - name1: RESEARCH/1.md
+        - name2: RESEARCH/2.md
+
+
+
+
+
+
+

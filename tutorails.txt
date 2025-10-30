@@ -1,0 +1,40 @@
+利用python中的mkdocs的来建立网站
+
+确保有python环境，安装对应的mkdocs的包
+pip install mkdocs mkdocs-material pymdown-extensions
+
+1、本地网站
+新建空文件夹，存放网站的内容，在终端中打开这个文件夹
+创建新的mkdocs网站 mkdocs new [name]
+
+进入[name]的文件夹，在终端中打开，启动服务器进行本地预览 mkdocs serve
+将会出现网址，直接进入即可
+
+在mkdocs.yml里面添加
+theme:
+        name: material
+即可更换主题
+
+2、在Github上部署网站
+直接在github desktop中创建public的仓库，进入github网站，Settings - Pages - Sources - Github Actions
+将这个仓库在终端打开，创建新的mkdocs网站 mkdocs new [name] 将里面的东西全拿出来
+
+在mkdocs.yml里面添加
+theme:
+        name: material
+即可更换主题
+
+创建文件夹以及用于在Github上的部署yml文件，具体的内容在 .github/workflows/Documentation.yml，
+
+push上即可，等待Actions中的部署，等待部署完成在Actions中即可看到对应的网址
+
+在美化网站的时候先在终端打开这个文件夹，启动服务器进行本地预览 mkdocs serve， 美化完成之后再push到github上进行部署
+
+生成的网址如下
+https://x-y-zhou.github.io/test_mkdocs/
+
+常用素材网站
+https://squidfunk.github.io/mkdocs-material/
+
+达特茅斯的例子
+https://schnell.host.dartmouth.edu/
