@@ -15,7 +15,7 @@ theme:
                 - navigation.tabs # 顶部导航
                 - search.highlight # 搜索高亮
 
-copyright: Queen's # 左下角声明
+copyright: Queen's
 
 nav:
 
