@@ -70,7 +70,7 @@ extra:
   image: assets/images/dartmouth-logo.png                                       # Custom image path, potentially used for social sharing cards (Open Graph).
                                                                                 # Consider a profile picture or a relevant project image.
 
-copyright: Queen's
+copyright: Queen's University
 
 
 nav:
