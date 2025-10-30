@@ -1,37 +1,100 @@
-site_name: Queen's University
+site_name: Edward Cao || Assistant Professor of Chemical Engineering
+
+#---------------------------------------------------------------------------------------------------
+# 2. Theme Configuration                                                                            #
+#    This section configures the visual theme of your website.                                      #
+#---------------------------------------------------------------------------------------------------
 theme:
-        name: material
+  name: material                                      # Specifies "Materials for MkDocs" as the theme.
+#   custom_dir: overrides                               # Points to a directory for theme customizations.
+                                                      # Files in this directory (e.g., main.html, base.html) will override
+                                                      # corresponding theme files, allowing advanced modifications.
+#   logo: assets/images/dartmouth-logo.png              # Path to your site's logo, displayed in the header.
+#   logo: assets/images/images.jpeg
+                                                      # Relative to the 'docs' directory (e.g., docs/assets/images/).
+                                                      # You can replace this with your own logo or a generic Dartmouth logo.
+#   favicon: assets/images/favicon.ico                  # Path to your site's favicon, shown in browser tabs.
+  favicon: assets/images/queens.svg
+                                                      # Relative to the 'docs' directory.
 
-        icon: 
-                logo: material/github # 左上角图标的修改
+  features:                                           # Enables various built-in features of Materials for MkDocs.
+    - navigation.tabs                                 # Top-level navigation as tabs.
+    - navigation.instant                              # Speeds up page loading by prefetching content.
+    - toc.integrate                                   # Integrates the Table of Contents directly into the main content sidebar.
+    - content.code.copy                               # Adds a "copy" button to code blocks.
+    # - navigation.sections                           # Uncomment to enable collapsible sections in sidebar nav.
+    # - search.suggest                                # Uncomment for search suggestions.
+    # - search.highlight                              # Uncomment to highlight search results on the page.
+    # NOTE: The 'footer' feature (for a built-in MkDocs-Material footer) is typically
+    #       only available in the Insiders version. For the public version,
+    #       a custom footer (like the one provided in extra.css) is usually implemented.
 
-        # language: zh # 右上角搜索改成中文
+  palette:                                            # Configures color schemes (light/dark mode).
+    - scheme: default                                 # Defines the default (light) color scheme.
+      primary: custom                                 # 'custom' indicates colors are defined via CSS variables (in extra.css).
+      accent: custom                                  # 'custom' for accent color.
+      toggle:
+        icon: material/weather-night                  # Icon for switching to dark mode.
+        name: Switch to dark mode                     # Tooltip text for the toggle.
+    - scheme: slate                                   # Defines the dark color scheme.
+      primary: custom                                 # 'custom' for dark mode primary color.
+      accent: custom                                  # 'custom' for dark mode accent color.
+      toggle:
+        icon: material/weather-sunny                  # Icon for switching to light mode.
+        name: Switch to light mode                    # Tooltip text for the toggle.
 
-        palette:
-                primary: indigo # 顶部背景颜色
+  font: false                                         # VERY IMPORTANT: Set to 'false' to disable Google Fonts.
+                                                      # This allows your locally hosted custom fonts (@font-face in extra.css)
+                                                      # like "National 2" and "Dartmouth Ruzika" to be used without conflict.
+      # text: Roboto                                  # (Commented out) If 'font: false' was not set, these would define Google Fonts.
+      # code: Roboto Mono                             # (Commented out)
 
-        features:
-                - navigation.top # 返回顶部的按钮
-                - navigation.tabs # 顶部导航
-                - search.highlight # 搜索高亮
+#---------------------------------------------------------------------------------------------------
+# 3. Extra Assets (CSS and JavaScript)                                                              #
+#    Links to additional CSS and JavaScript files for further customization.                        #
+#---------------------------------------------------------------------------------------------------
+extra_css:
+  - stylesheets/extra.css                                       # Path to your custom CSS file.
+                                                                # Relative to the 'docs' directory (e.g., docs/stylesheets/extra.css).
+                                                                # This is where you put all your custom Dartmouth-specific styling.
+extra_javascript:
+  - javascripts/extra.js                                        # Path to your custom JavaScript file.
+                                                                # Relative to the 'docs' directory (e.g., docs/javascripts/extra.js).
+                                                                # Use this for custom interactivity (e.g., scroll-to-top button logic).
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # Includes MathJax library for rendering LaTeX/mathematical equations.
+                                                                # Essential if you use the 'pymdownx.arithmatex' extension.
+
+#---------------------------------------------------------------------------------------------------
+# 4. Extra Variables                                                                                #
+#    Custom variables accessible in your theme templates and Markdown via Jinja2.                   #
+#---------------------------------------------------------------------------------------------------
+extra:
+  generator: false                                   # Set to 'false' to hide the "Generated by MkDocs" footer message.
+  social:                                            # Defines social media links, often used in custom footers.
+    - icon: fontawesome/brands/google-scholar        # Example: Google Scholar profile.
+      link: [Your Google Scholar Profile URL]
+    - icon: fontawesome/brands/github                # Example: GitHub profile.
+      link: [Your GitHub Profile URL]
+    # Add more social links as needed:
+    # - icon: fontawesome/brands/linkedin
+    #   link: [Your LinkedIn Profile URL]
+    # - icon: fontawesome/brands/twitter
+    #   link: [Your Twitter Profile URL]
+  description: [A short, concise description for meta tags and social sharing]  # Custom description, potentially used in templates.
+                                                                                # Example: "Official academic page of [Your Name], a researcher at Dartmouth."
+  image: assets/images/dartmouth-logo.png                                       # Custom image path, potentially used for social sharing cards (Open Graph).
+                                                                                # Consider a profile picture or a relevant project image.
 
 copyright: Queen's
 
+
 nav:
 
-- Home: 
-        - Home: index.md
-
-- Edward Cao:
-        - name1: EC/1.md
-
-- PUBLICATIONS:
-        - name1: PUBLICATIONS/1.md
-        - name2: PUBLICATIONS/2.md
-
-- RESEARCH:
-        - name1: RESEARCH/1.md
-        - name2: RESEARCH/2.md
+- Home: Home.md
+- Edward Cao: EC.md
+- TEAM: team.md
+- PUBLICATIONS: Publications.md
+- RESEARCH: Research.md
 
 
 
