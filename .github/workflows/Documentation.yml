@@ -14,7 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-        contents: write          # 允许推送到 gh-pages
+        contents: write       
         pages: write
         id-token: write
     steps:

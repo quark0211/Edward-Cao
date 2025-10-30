@@ -8,7 +8,7 @@ theme:
         # language: zh # 右上角搜索改成中文
 
         palette:
-                primary: teal # 顶部背景颜色
+                primary: indigo # 顶部背景颜色
 
         features:
                 - navigation.top # 返回顶部的按钮
