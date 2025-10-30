@@ -50,21 +50,6 @@ theme:
       # code: Roboto Mono                             # (Commented out)
 
 #---------------------------------------------------------------------------------------------------
-# 3. Extra Assets (CSS and JavaScript)                                                              #
-#    Links to additional CSS and JavaScript files for further customization.                        #
-#---------------------------------------------------------------------------------------------------
-extra_css:
-  - stylesheets/extra.css                                       # Path to your custom CSS file.
-                                                                # Relative to the 'docs' directory (e.g., docs/stylesheets/extra.css).
-                                                                # This is where you put all your custom Dartmouth-specific styling.
-extra_javascript:
-  - javascripts/extra.js                                        # Path to your custom JavaScript file.
-                                                                # Relative to the 'docs' directory (e.g., docs/javascripts/extra.js).
-                                                                # Use this for custom interactivity (e.g., scroll-to-top button logic).
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js # Includes MathJax library for rendering LaTeX/mathematical equations.
-                                                                # Essential if you use the 'pymdownx.arithmatex' extension.
-
-#---------------------------------------------------------------------------------------------------
 # 4. Extra Variables                                                                                #
 #    Custom variables accessible in your theme templates and Markdown via Jinja2.                   #
 #---------------------------------------------------------------------------------------------------
