@@ -1,34 +1,18 @@
-![EC](figs/edward_cao2_2025.png) 
+![EC](figs/edward_cao2_2025.png)
 
-<img src="figs/edward_cao2_2025.png" width="300"/>
+Assistant Professor of [Smith Engineering](https://smithengineering.queensu.ca/)
 
-<div style="display: flex; align-items: center;">
-  <img src="figs/edward_cao2_2025.png"width="300" style="margin-right:15px;"/>
-  <div>
-    <p>Edward Cao</p>
-    <p>这里是第二行文字，可以继续写。</p>
-    <p>第三行也没问题。</p>
-  </div>
-</div>
+[Queen's University](https://www.queensu.ca/)
 
-Edward Cao
+[Google Scholar](https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao) | [Github](https://github.com/edwardcao3026)
 
-<div class="hero-text">
-    # Welcome to My Academic Website!
-    <p>I am a **[Your Title/Role, e.g., Assistant Professor, PhD Candidate, Undergraduate Researcher]** at Dartmouth College, passionate about **[Your Field of Study/Research Area]**.</p>
-    <p>This website serves as a comprehensive resource showcasing my academic journey, research endeavors, publications, and projects.</p>
-    <p>Feel free to explore the different sections to learn more about my work and interests.</p>
-</div>
-<div class="hero-image">
-    <img src="figs/edward_cao2_2025.png" alt="[Your Name] Profile Picture">
-</div>
+Edward Cao is an Associate Professor of Electrical & Computer Engineering at Queen’s University, Canada. His research centers on developing advanced mathematical and computational frameworks to model stochastic gene expression dynamics with precision, interpretability, and real-world applicability.
 
-
-
+Edward Cao employs generating-function theory, deep learning, and stochastic process analysis to address complex questions in systems and synthetic biology. His theoretical models—ranging from non-Markov transcription–translation kinetics to neural-network-accelerated solvers—act as interpretable tools for mechanism discrimination and parameter inference, and are applied in close collaboration with experimental teams working on single‐cell genomics around the world.
 
 ## Contact Information
 
-**Email**: z.cao@queensu.ca
+**Email**: [z.cao@queensu.ca](mailto:z.cao@queensu.ca)
 
 **Phone**: 613-533-6000 ext. 77680
 
