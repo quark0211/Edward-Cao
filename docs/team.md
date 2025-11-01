@@ -60,7 +60,7 @@ We are proud to collaborate with colleagues specializing in stochastic processes
 
   <div style="text-align:center; width:180px;">
   <a href="https://scholar.google.com/citations?user=xSGWAVwAAAAJ&hl=en" target="_blank">
-    <img src="/figs/Diego.jpg" alt="Lei Lei" width="180" height="300" style="border-radius:10px;"/>
+    <img src="https://github.com/quark0211/Edward-Cao/blob/main/docs/figs/Diego.jpg" alt="Lei Lei" width="180" height="300" style="border-radius:10px;"/>
     <p><strong>Diego A Oyarzún</strong><br>
     <em>University of Edinburgh</em><br>
   </div>
