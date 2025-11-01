@@ -1,5 +1,5 @@
 
-## SELECTED PUBLICATION
+## SELECTED PUBLICATIONS
 
 The symbol \* stands for corresponding author
 
@@ -16,7 +16,7 @@ The symbol \* stands for corresponding author
 **[6]** **Z. Cao**, R. Gondhalekar, E. Dassau, F. J. Doyle III, "Extremum seeking control for personalized zone adaptation in model predictive control for Type 1 diabetes", *IEEE Transactions on Biomedical Engineering*, **65**: 1859-1870, 2018.
 
 
-## Full PUBLICATION LIST
+## Full PUBLICATIONS
 
 The symbol * stands for corresponding author. The papers are arranged in authorship and chronological order.
 
@@ -126,11 +126,12 @@ The symbol * stands for corresponding author. The papers are arranged in authors
 
 **[J52]** Z. Yu, G. Wang, Q. Jiang\*, X. Yan, **Z. Cao**, "Enhanced variational autoencoder with continual learning capability for multimode process monitoring", *Control Engineering Practice*, **156**: 106219, 2025.
 
-## Book Publication
+## BOOK PUBLICATIONS
 
 **[B1]** R. Chen, **Z. Cao**,"Application of artificial intelligence in diagnosis and treatment of prostate cancer",*Shanghai Science \& Technology Press*, 2022. 
 
-## Conference Publication
+## CONFERENCE PUBLICATIONS
+
 **[C1]** **Z. Cao**, E. Dassau, R. Gondhalekar, F. J. Doyle III, "Extremum seeking control based zone adaptation for zone model predictive control in type 1 diabetes", in *Proceedings of IFAC World Congress, Toulouse, France*: 15639-15644, 2017.
 
 **[C2]** **Z. Cao**, F. Gao, J. Lu, Y. Yang, "From single batch process control to multiple batch processes control: a review and a perspective for injection molding", in *Proceedings of SPE Annual Technical Conference*: 2271-2276, 2014.

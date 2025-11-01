@@ -31,7 +31,7 @@ theme:
 
   palette:                                            # Configures color schemes (light/dark mode).
     - scheme: default                                 # Defines the default (light) color scheme.
-      primary: custom                                 # 'custom' indicates colors are defined via CSS variables (in extra.css).
+      primary: indigo                            # 'custom' indicates colors are defined via CSS variables (in extra.css).
       accent: custom                                  # 'custom' for accent color.
       toggle:
         icon: material/weather-night                  # Icon for switching to dark mode.
@@ -71,7 +71,12 @@ extra:
                                                                                 # Consider a profile picture or a relevant project image.
 markdown_extensions:
   - md_in_html
-  # - pymdownx.attr_list
+
+extra_css:
+  - styles/custom.css
+
+
+
 
 copyright: Queen's University
 
@@ -83,9 +88,6 @@ nav:
 - TEAM: team.md
 - PUBLICATIONS: Publications.md
 - RESEARCH: Research.md
-
-
-
 
 
 
