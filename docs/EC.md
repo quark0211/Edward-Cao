@@ -14,7 +14,7 @@
 </div> -->
 
 <div class="image-text-row">
-  <img src="/figs/edward_cao2_2025.png" alt="Profile">
+  <img src="../figs/edward_cao2_2025.png" alt="Profile">
   <div class="text">
     <h2>Edward Cao</h2>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
@@ -22,7 +22,7 @@
           <p> <a href="https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
               <a href="https://github.com/edwardcao3026" target="_blank">Github</a>
            </p>
-          <p> <a href="/figs/Dossier_Edward_Cao.pdf" target="_blank">Short Biography (PDF)</a></p>
+          <p> <a href="../figs/Dossier_Edward_Cao.pdf" target="_blank">Short Biography (PDF)</a></p>
 
   </div>
 </div>

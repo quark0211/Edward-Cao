@@ -7,13 +7,13 @@ We cultivate a collaborative and creative research environment where generating-
 ## PHD Students
 
 <div class="image-text-row">
-  <img src="/figs/zxy.jpg" alt="Profile">
+  <img src="../figs/zxy.jpg" alt="Profile">
   <div class="text">
     <h2>Xinyi Zhou</h2>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
           <p> Assistant Professor of <a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
           <p> <a href="https://github.com/X-Y-Zhou" target="_blank">Github</a> |
-          <a href="/figs/zxy.pdf" target="_blank">Short Biography (PDF)</a>
+          <a href="../figs/zxy.pdf" target="_blank">Short Biography (PDF)</a>
            </p>
 
   </div>
@@ -46,22 +46,21 @@ We are proud to collaborate with colleagues specializing in stochastic processes
 
   <div style="text-align:center; width:180px;">
   <a href="https://scholar.google.com/citations?user=HAgn6Z4AAAAJ&hl=en" target="_blank">
-    <img src="figs/GFR.jpg" alt="Furong Gao" width="180" height="300" style="border-radius:10px;"/>
+    <img src="../figs/GFR.jpg" alt="Furong Gao" width="180" height="300" style="border-radius:10px;"/>
     <p><strong>Chi-Kuo Hu</strong><br>
     <em>Hong Kong University of Science and Technology</em><br>
   </div>
 
   <div style="text-align:center; width:180px;">
   <a href="https://scholar.google.com/citations?user=kvASR48AAAAJ&hl=en" target="_blank">
-    <img src="/figs/LJY.jpg" alt="Jingyi Lu" width="180" height="300" style="border-radius:10px;"/>
+    <img src="../figs/LJY.jpg" alt="Jingyi Lu" width="180" height="300" style="border-radius:10px;"/>
     <p><strong>Jingyi Lu</strong><br>
     <em>East China University of Science and Technology</em><br>
   </div>
 
   <div style="text-align:center; width:180px;">
   <a href="https://scholar.google.com/citations?user=xSGWAVwAAAAJ&hl=en" target="_blank">
-    <!-- <img src="../figs/Diego.jpg" alt="Diego A Oyarzún" width="180" height="300" style="border-radius:10px;"/> -->
-    <img src="/assets/images/images.jpeg" alt="Diego A Oyarzún" width="180" height="300" style="border-radius:10px;"/>
+    <img src="../figs/Diego.jpg" alt="Diego A Oyarzún" width="180" height="300" style="border-radius:10px;"/>
     <p><strong>Diego A Oyarzún</strong><br>
     <em>University of Edinburgh</em><br>
   </div>
