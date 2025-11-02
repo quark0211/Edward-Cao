@@ -39,7 +39,7 @@ We are proud to collaborate with colleagues specializing in stochastic processes
 
   <div style="text-align:center; width:180px;">
   <a href="https://scholar.google.com/citations?user=zkpL2H8AAAAJ&hl=zh-CN" target="_blank">
-    <img src="/figs/Ramon.jpg" alt="Ramon Grima" width="180" height="300" style="border-radius:10px;"/>
+    <img src="../figs/Ramon.jpg" alt="Ramon Grima" width="180" height="300" style="border-radius:10px;"/>
     <p><strong>Ramon Grima</strong><br>
     <em>University of Edinburgh</em><br>
   </div>
