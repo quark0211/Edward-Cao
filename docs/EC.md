@@ -22,7 +22,7 @@
           <p> <a href="https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
               <a href="https://github.com/edwardcao3026" target="_blank">Github</a>
            </p>
-          <p> <a href="../figs/Dossier_Edward_Cao.pdf" target="_blank">Short Biography (PDF)</a></p>
+          <p> <a href="../figs/Edward_Cao.pdf" target="_blank">Short Biography (PDF)</a></p>
 
   </div>
 </div>
