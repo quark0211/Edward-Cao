@@ -9,8 +9,7 @@ theme:
 #   custom_dir: overrides                               # Points to a directory for theme customizations.
                                                       # Files in this directory (e.g., main.html, base.html) will override
                                                       # corresponding theme files, allowing advanced modifications.
-#   logo: assets/images/dartmouth-logo.png              # Path to your site's logo, displayed in the header.
-#   logo: assets/images/images.jpeg
+  logo: figs/Smith_engineering_logo.jpg
                                                       # Relative to the 'docs' directory (e.g., docs/assets/images/).
                                                       # You can replace this with your own logo or a generic Dartmouth logo.
 #   favicon: assets/images/favicon.ico                  # Path to your site's favicon, shown in browser tabs.

@@ -55,7 +55,13 @@
 .image-text-row .text {
     flex: 1;
 }
-  
+
+.md-logo img {
+    height: 50px !important;   /* 控制高度 */
+    width: auto !important;    /* 自动保持比例 */
+  }
+
+
 
 /* 卡片包裹 */
 .md-typeset .profile-card{
