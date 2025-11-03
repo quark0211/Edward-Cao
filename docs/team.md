@@ -44,26 +44,28 @@ We are proud to collaborate with colleagues specializing in stochastic processes
     <em>University of Edinburgh</em><br>
   </div>
 
-  <div style="text-align:center; width:180px;">
-  <a href="https://scholar.google.com/citations?user=HAgn6Z4AAAAJ&hl=en" target="_blank">
-    <img src="../figs/GFR.jpg" alt="Furong Gao" width="180" height="300" style="border-radius:10px;"/>
-    <p><strong>Chi-Kuo Hu</strong><br>
-    <em>Hong Kong University of Science and Technology</em><br>
-  </div>
-
-  <div style="text-align:center; width:180px;">
-  <a href="https://scholar.google.com/citations?user=kvASR48AAAAJ&hl=en" target="_blank">
-    <img src="../figs/LJY.jpg" alt="Jingyi Lu" width="180" height="300" style="border-radius:10px;"/>
-    <p><strong>Jingyi Lu</strong><br>
-    <em>East China University of Science and Technology</em><br>
-  </div>
-
-  <div style="text-align:center; width:180px;">
-  <a href="https://scholar.google.com/citations?user=xSGWAVwAAAAJ&hl=en" target="_blank">
+<div style="text-align:center; width:180px;">
+    <a href="https://scholar.google.com/citations?user=xSGWAVwAAAAJ&hl=en" target="_blank">
     <img src="../figs/Diego.jpg" alt="Diego A Oyarzún" width="180" height="300" style="border-radius:10px;"/>
     <p><strong>Diego A Oyarzún</strong><br>
     <em>University of Edinburgh</em><br>
-  </div>
+    </div>
 </div>
+
+<div style="text-align:center; width:180px;">
+    <a href="https://scholar.google.com/citations?user=HAgn6Z4AAAAJ&hl=en" target="_blank">
+    <img src="../figs/GFR.jpg" alt="Furong Gao" width="180" height="300" style="border-radius:10px;"/>
+    <p><strong>Furong Gao</strong><br>
+    <em>Hong Kong University of Science and Technology</em><br>
+</div>
+
+<div style="text-align:center; width:180px;">
+    <a href="https://scholar.google.com/citations?user=kvASR48AAAAJ&hl=en" target="_blank">
+    <img src="../figs/LJY.jpg" alt="Jingyi Lu" width="180" height="300" style="border-radius:10px;"/>
+    <p><strong>Jingyi Lu</strong><br>
+    <em>East China University of Science and Technology</em><br>
+</div>
+
+
 
 
