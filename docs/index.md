@@ -24,7 +24,7 @@
 
 <div class="card-grid">
 <div class="card">
-  <img src="../figs/LMA.jpg" alt="Enzyme kinetics" class="card-img">
+  <img src="docs/figs/LMA.jpg" alt="Enzyme kinetics" class="card-img">
   <div class="card-body">
     <p class="card-label">Mathematical Biology</p>
     <h3 class="card-title">
