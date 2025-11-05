@@ -4,14 +4,23 @@ Our team, led by Zhixing Cao, brings together researchers and students with dive
 
 We cultivate a collaborative and creative research environment where generating-function analysis, stochastic modeling, and machine learning are seamlessly integrated with biological data. Our work bridges theory and experiment, developing analytical and neural-network-based solvers for non-Markovian gene expression models, advancing statistical inference of cellular processes, and driving innovation in systems and synthetic biology.
 
+<div class="admonition info">
+  <p class="admonition-title">Now Recruiting</p>
+  <p>We are seeking talented postdoctoral fellows and graduate students to join our interdisciplinary research team. <a href="../join/">Learn more!</a></p>
+</div>
+
+<hr>
+
 ## PHD Students
 
-<div class="image-text-row">
+<div class="image-text-row2">
   <img src="../figs/zxy.jpg" alt="Profile">
   <div class="text">
     <h2>Xinyi Zhou</h2>
+          <p> Phd Student </p>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
-          <p> Assistant Professor of <a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
+          <p><a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
+          <p><a> Department of Chemical Engineering </a></p>
           <p> <a href="https://github.com/X-Y-Zhou" target="_blank">Github</a> |
           <a href="../figs/zxy.pdf" target="_blank">Short Biography (PDF)</a>
            </p>
@@ -19,6 +28,30 @@ We cultivate a collaborative and creative research environment where generating-
   </div>
 </div>
 
+Xinyi Zhou used to be a B.Eng. student majoring in Control Science and Engineering at East China University of Sci- ence and Technology (ECUST). My overall GPA is 3.57/4.0, ranking 13/87 in this major. In my freshman year, I participated in the Oxford Prospects Programmes in the University of Oxford, where I attended academic lectures and completed academic English workshops conducted by university professors. Dur- ing my sophomore year, I was selected for the Outstanding Innovation Talent Programme in my college (only 6 people from the entire college were selected), which qualified me for a doctoral degree in Con- trol Science and Engineering at my university under the supervision of Professor Zhixing Cao. 
+<hr>
+
+## Postdoctoral Fellows
+
+<div class="image-text-row">
+  <img src="../figs/zxy.jpg" alt="Profile">
+  <div class="text">
+    <h2>Xinyi Zhou</h2>
+          <p> Postdoctoral Research Scientist </p>
+          <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
+          <p><a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
+          <p><a> Department of Chemical Engineering </a></p>
+          <p> <a href="https://github.com/X-Y-Zhou" target="_blank">Github</a> |
+          <a href="../figs/zxy.pdf" target="_blank">Short Biography (PDF)</a>
+           </p>
+
+  </div>
+</div>
+
+
+Xinyi Zhou used to be a B.Eng. student majoring in Control Science and Engineering at East China University of Sci- ence and Technology (ECUST). My overall GPA is 3.57/4.0, ranking 13/87 in this major. In my freshman year, I participated in the Oxford Prospects Programmes in the University of Oxford, where I attended academic lectures and completed academic English workshops conducted by university professors. Dur- ing my sophomore year, I was selected for the Outstanding Innovation Talent Programme in my college (only 6 people from the entire college were selected), which qualified me for a doctoral degree in Con- trol Science and Engineering at my university under the supervision of Professor Zhixing Cao. 
+
+<hr>
 
 ## Collaborators
 
@@ -30,11 +63,7 @@ We are proud to collaborate with colleagues specializing in stochastic processes
 
 <br>
 
-
-<!-- <a href="https://scholar.google.com/citations?user=zkpL2H8AAAAJ&hl=zh-CN" target="_blank">
-  <img src="/figs/Ramon.jpg" alt="GitHub" width="200">
-</a> -->
-
+<div class="cover-gallery-wrapper">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
 <div style="text-align:center; width:180px;">
@@ -64,7 +93,7 @@ We are proud to collaborate with colleagues specializing in stochastic processes
     <p><strong>Jingyi Lu</strong><br>
     <em>East China University of Science and Technology</em><br>
 </div>
-
+</div>
 
 
 

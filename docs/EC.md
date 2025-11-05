@@ -16,7 +16,7 @@
 <div class="image-text-row">
   <img src="../figs/edward_cao2_2025.png" alt="Profile">
   <div class="text">
-    <h2>Edward Cao</h2>
+    <h3>Edward Cao</h3>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
           <p> Assistant Professor of <a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
           <p> <a href="https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |

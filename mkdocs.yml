@@ -74,17 +74,14 @@ markdown_extensions:
 extra_css:
   - styles/custom.css
 
-
-
-
 copyright: Queen's University
 
-
 nav:
-
 - Home: index.md
 - Edward Cao: EC.md
-- TEAM: team.md
+- TEAM: 
+        - Team: team.md
+        - Joining the Research Group: join.md
 - PUBLICATIONS: Publications.md
 - RESEARCH: Research.md
 

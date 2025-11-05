@@ -14,32 +14,48 @@
     font-size: 1.8em;       /* 调整字号，默认约 1.5em，可改为 2em */
     font-weight: 700;       /* 字体粗细 */
     color: #1e40af;         /* 颜色（此为 indigo-700） */
-    font-family: "Arial";
+    font-family: "Georgia";
     margin-top: 0.0em;
-    margin-bottom: 0.6em;
+    margin-bottom: 0.2em;
   }
+
+/* 二级标题 */
+.md-typeset h3 {
+  font-size: 1.5em;       /* 调整字号，默认约 1.5em，可改为 2em */
+  font-weight: 600;       /* 字体粗细 */
+  color: #3e3785;         /* 颜色（此为 indigo-700） */
+  font-family: "Arial";
+  margin-top: 0.0em;
+  margin-bottom: 0.6em;
+}
 
 /* 正文 */
 .md-typeset {
     font-family: "Roboto";
-    font-size: 2em;
+    font-size: 1.75em;
     line-height: 1.5;
     color: #1e293b;        /* 蓝灰色文字 */
 }
 
-/* 常用的字体 */
-/* "Noto Sans SC", "Roboto", "Microsoft YaHei", "PingFang SC", sans-serif; */
+/* logo */
+.md-logo img {
+  height: 55px !important;   /* 控制高度 */
+  width: auto !important;    /* 自动保持比例 */
+}
 
 /* 背景色 */
 :root {
-    /* 主色 */
-    --md-primary-fg-color: #002452;   
-    /* 强调色：亮蓝 */
-    --md-accent-fg-color: #1E90FF;    
+  /* 主色 */
+  --md-primary-fg-color: #002452;   
+  /* 强调色：亮蓝 */
+  --md-accent-fg-color: #1E90FF;    
 }
 
+/* 常用的字体 */
+/* "Noto Sans SC", "Roboto", "Microsoft YaHei", "PingFang SC", sans-serif; */
+/* font-family: "Dartmouth Ruzika", serif; */
 
-/* 左边图片右边文字 */
+/* 左边图片右边文字 Edward Cao */
 .image-text-row {
     display: flex;
     align-items: center;
@@ -47,77 +63,78 @@
 }
   
 .image-text-row img {
-    width: 300px;
+    width: 275px;
     border-radius: 12px;
     margin-right: 20px;
 }
-  
-.image-text-row .text {
-    flex: 1;
+
+/* 左边图片右边文字 Team */
+.image-text-row2 {
+  display: flex;
+  align-items: center;
+  margin: 1em 0;
 }
 
-.md-logo img {
-    height: 50px !important;   /* 控制高度 */
-    width: auto !important;    /* 自动保持比例 */
-  }
+.image-text-row2 img {
+  width: 250px;
+  border-radius: 12px;
+  margin-right: 20px;
+}
 
+/* 广告边框包裹 */
+.md-typeset .admonition.info, .md-typeset details.info {
+  background-color: var(--md-color-light-greenish-white);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  color: #002452;
+  font-size: 0.8rem;
+  border-radius: .5rem;
+}
 
+.md-typeset .admonition.info, .md-typeset details.info {
+  border-color: #3174cc;
+}
 
-/* 卡片包裹 */
-.md-typeset .profile-card{
-    display:flex;
-    align-items:center;
-    gap:16px;
-    padding:16px 18px;
-    border:1px solid var(--md-default-fg-color--lightest, #e5e7eb);
-    border-radius:12px;
-    background:var(--md-default-bg-color, #fff);
-    box-shadow:0 2px 8px rgba(0,0,0,.06);
-    margin:1rem 0;
-  }
-  
-  .md-typeset .profile-card img{
-    width:180px;                /* 可改：150~220 */
-    height:180px;               /* 正方形头像更整齐 */
-    object-fit:cover;           /* 裁切居中 */
-    border-radius:12px;         /* 圆角 */
-    flex:0 0 auto;
-  }
-  
-  .md-typeset .profile-card .card-text{
-    flex:1 1 auto;
-    min-width:0;
-  }
-  
-  .md-typeset .profile-card .card-text h3{
-    margin:0 0 .25rem 0;
-    font-weight:700;
-  }
-  
-  .md-typeset .profile-card .card-text p{
-    margin:.25rem 0 0 0;
-    line-height:1.7;
-    color:var(--md-default-fg-color, #1f2937);
-  }
-  
-  /* 移动端：自动上下堆叠 */
-  @media (max-width: 768px){
-    .md-typeset .profile-card{
-      flex-direction:column;
-      align-items:flex-start;
-    }
-    .md-typeset .profile-card img{
-      width:140px; height:140px;
-    }
-  }
-  
-  /* 可选：加主题色边框/标题线 */
-  .md-typeset .profile-card.indigo{
-    border-color:#4338ca;                   /* indigo-700 */
-    box-shadow:0 2px 10px rgba(67,56,202,.12);
-  }
-  
+.cover-gallery-wrapper {
+  background-color:#f3f7fc;
+  padding: 2rem 1rem;
+  border-radius: 8px;
+  margin: 2rem 0;
+}
 
+/* 卡片 */
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.card {
+    background-color: var(--md-color-white);
+    border-radius: 10px;
+    border: 1px solid var(--md-color-light-gray-border);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease;
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 0.9rem;
+  font-family: 'National 2', Arial, sans-serif !important;
+}
+
+.card-label + .card-title {
+  margin-top: 0.1rem !important;
+}
 
 
 

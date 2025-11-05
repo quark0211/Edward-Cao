@@ -1,18 +1,85 @@
 # Welcome
 
-![EC](figs/edward_cao2_2025.png) 
+<!-- ![EC](figs/edward_cao2_2025.png)  -->
+<!-- ## [Edward Cao](EC.md) -->
 
-## [Edward Cao](EC.md)
+<div class="card-grid">
+<div class="card">
+  <img src="figs/edward_cao2_2025.png" alt="Santiago Schnell" class="card-img">
+  <div class="card-body">
+    <p class="card-label">Associate Professor</p>
+    <h3 class="card-title">
+      <a href="../EC/">Edward Cao</a>
+    </h3>
+    <p>Edward Cao is an Associate Professor of Electrical & Computer Engineering at Queen’s University, Canada. His research centers on developing advanced mathematical and computational frameworks to model stochastic gene expression dynamics with precision, interpretability, and real-world applicability.</p>
 
-Edward Cao is an Associate Professor of Electrical & Computer Engineering at Queen’s University, Canada. His research centers on developing advanced mathematical and computational frameworks to model stochastic gene expression dynamics with precision, interpretability, and real-world applicability.
+    <p>Edward Cao employs generating-function theory, deep learning, and stochastic process analysis to address complex questions in systems and synthetic biology. His theoretical models—ranging from non-Markov transcription–translation kinetics to neural-network-accelerated solvers—act as interpretable tools for mechanism discrimination and parameter inference, and are applied in close collaboration with experimental teams working on single‐cell genomics around the world.</p>
+  </div>
+</div>
+</div>
 
-Edward Cao employs generating-function theory, deep learning, and stochastic process analysis to address complex questions in systems and synthetic biology. His theoretical models—ranging from non-Markov transcription–translation kinetics to neural-network-accelerated solvers—act as interpretable tools for mechanism discrimination and parameter inference, and are applied in close collaboration with experimental teams working on single‐cell genomics around the world.
+<br>
 
 ## Projects
 
-## Research
+<div class="card-grid">
+<div class="card">
+  <img src="../figs/LMA.jpg" alt="Enzyme kinetics" class="card-img">
+  <div class="card-body">
+    <p class="card-label">Mathematical Biology</p>
+    <h3 class="card-title">
+      <a href="https://schnell.host.dartmouth.edu/research#kinetics">Principles of Enzyme and Biochemical Kinetics</a>
+    </h3>
+    <p>We are deriving rate equations and developoing standard based approaches to measure the physical constants of biopchemical reactions.</p>
+  </div>
+</div>
+
+<div class="card">
+  <img src="../figs/Queens_building.jpeg" alt="Dartmouth campus" class="card-img">
+  <div class="card-body">
+    <p class="card-label">Scientometrics</p>
+    <h3 class="card-title">
+      <a href="https://schnell.host.dartmouth.edu/research#universities">Measuring and Improving Research University Performance</a>
+    </h3>
+    <p>We are developing new metrics and models to measure and improve performance of scientists, research universities, and academic policies.</p>
+  </div>
+</div>
+</div>
+
+[See our research program →](Research.md)
+
+<br>
+
+<!-- ## Research -->
 
 ## Team
+
+<div class="card-grid">
+
+<div class="card">
+  <img class="image-circle" src="https://schnell.host.dartmouth.edu/assets/images/people/abhishek-mallela.jpg" alt="Abhishek Mallela">
+  <div class="card-body">
+    <p class="card-label">Postdoctoral Fellow</p>
+    <h3 class="card-title"><a href="https://schnell.host.dartmouth.edu/team/#abhishek">Abhishek Mallela</a></h3>
+    <p>Abhishek works on parameter estimation of enzyme-catalyzed experiments. He is also
+    investigating minimal reaction mechanisms for hormesis.</p>
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://schnell.host.dartmouth.edu/assets/images/people/isabella-gimon.jpg" alt="Isabella Gimon" class="card-img">
+  <div class="card-body">
+    <p class="card-label">Graduate Student</p>
+    <h3 class="card-title"><a href="https://schnell.host.dartmouth.edu/team/#gimon">Isabella Gimon</a></h3>
+    <p>Isabella is investigating the effects of macromolecular crowding on protein aggregation using 
+    rule-based models.</p>
+  </div>
+</div>
+</div>
+
+[See the rest of the team →](team.md)
+
+<br>
 
 ## Latest Publications
 
@@ -34,6 +101,6 @@ Edward Cao employs generating-function theory, deep learning, and stochastic pro
 
 **[9]** Z. Yu, G. Wang, Q. Jiang\*, X. Yan, **Z. Cao**, "Enhanced variational autoencoder with continual learning capability for multimode process monitoring", *Control Engineering Practice*, **156**: 106219, 2025.
 
-[See Full Publications](Publications.md)
+[See Full Publications →](Publications.md)
 
 
