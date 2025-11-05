@@ -24,11 +24,11 @@
 
 <div class="card-grid">
 <div class="card">
-  <img src="figs/LMA.jpg" alt="Enzyme kinetics" class="card-img">
+  <img src="figs/NN_CME.jpg" alt="Enzyme kinetics" class="card-img">
   <div class="card-body">
     <p class="card-label">Mathematical Biology</p>
     <h3 class="card-title">
-      <a href="../Research/">Principles of Enzyme and Biochemical Kinetics</a>
+      <a href="Research/">Principles of Enzyme and Biochemical Kinetics</a>
     </h3>
     <p>We are deriving rate equations and developoing standard based approaches to measure the physical constants of biopchemical reactions.</p>
   </div>
@@ -39,7 +39,7 @@
   <div class="card-body">
     <p class="card-label">Scientometrics</p>
     <h3 class="card-title">
-      <a href="../Research/">Measuring and Improving Research University Performance</a>
+      <a href="Research/">Measuring and Improving Research University Performance</a>
     </h3>
     <p>We are developing new metrics and models to measure and improve performance of scientists, research universities, and academic policies.</p>
   </div>
@@ -57,20 +57,20 @@
 <div class="card-grid">
 
 <div class="card">
-  <img class="image-circle" src="../figs/zxy.jpg" alt="Abhishek Mallela">
+  <img class="image-circle" src="figs/zxy.jpg" alt="Xinyi Zhou">
   <div class="card-body">
     <p class="card-label">Postdoctoral Fellow</p>
-    <h3 class="card-title"><a href="../team/">Abhishek Mallela</a></h3>
+    <h3 class="card-title"><a href="team##PHD Students/">Xinyi Zhou</a></h3>
     <p>Abhishek works on parameter estimation of enzyme-catalyzed experiments. He is also
     investigating minimal reaction mechanisms for hormesis.</p>
   </div>
 </div>
 
 <div class="card">
-  <img src="../figs/zxy.jpg" alt="Isabella Gimon" class="card-img">
+  <img src="figs/zxy.jpg" alt="Xinyi Zhou" class="card-img">
   <div class="card-body">
     <p class="card-label">Graduate Student</p>
-    <h3 class="card-title"><a href="../team/">Isabella Gimon</a></h3>
+    <h3 class="card-title"><a href="team##Postdoctoral Fellows/">Xinyi Zhou</a></h3>
     <p>Isabella is investigating the effects of macromolecular crowding on protein aggregation using 
     rule-based models.</p>
   </div>

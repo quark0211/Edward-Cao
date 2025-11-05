@@ -38,3 +38,22 @@ https://squidfunk.github.io/mkdocs-material/
 
 达特茅斯的例子
 https://schnell.host.dartmouth.edu/
+
+
+Home
+照片
+EC简单的自我介绍
+两个projects的简单介绍
+几个Team成员的简单介绍
+
+Edward Cao
+详细的介绍
+Short Biography (PDF)
+
+Team 
+Team的介绍
+几个Team成员的详细介绍
+Collaborators的介绍
+
+Research 
+几个Research项目的详细介绍
