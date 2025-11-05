@@ -28,7 +28,7 @@
   <div class="card-body">
     <p class="card-label">Mathematical Biology</p>
     <h3 class="card-title">
-      <a href="https://schnell.host.dartmouth.edu/research#kinetics">Principles of Enzyme and Biochemical Kinetics</a>
+      <a href="../Research/">Principles of Enzyme and Biochemical Kinetics</a>
     </h3>
     <p>We are deriving rate equations and developoing standard based approaches to measure the physical constants of biopchemical reactions.</p>
   </div>
@@ -39,7 +39,7 @@
   <div class="card-body">
     <p class="card-label">Scientometrics</p>
     <h3 class="card-title">
-      <a href="https://schnell.host.dartmouth.edu/research#universities">Measuring and Improving Research University Performance</a>
+      <a href="../Research/">Measuring and Improving Research University Performance</a>
     </h3>
     <p>We are developing new metrics and models to measure and improve performance of scientists, research universities, and academic policies.</p>
   </div>
