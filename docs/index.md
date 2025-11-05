@@ -9,7 +9,7 @@
   <div class="card-body">
     <p class="card-label">Associate Professor</p>
     <h3 class="card-title">
-      <a href="../EC/">Edward Cao</a>
+      <a href="EC/">Edward Cao</a>
     </h3>
     <p>Edward Cao is an Associate Professor of Electrical & Computer Engineering at Queen’s University, Canada. His research centers on developing advanced mathematical and computational frameworks to model stochastic gene expression dynamics with precision, interpretability, and real-world applicability.</p>
 
@@ -24,7 +24,7 @@
 
 <div class="card-grid">
 <div class="card">
-  <img src="docs/figs/LMA.jpg" alt="Enzyme kinetics" class="card-img">
+  <img src="figs/LMA.jpg" alt="Enzyme kinetics" class="card-img">
   <div class="card-body">
     <p class="card-label">Mathematical Biology</p>
     <h3 class="card-title">
@@ -35,7 +35,7 @@
 </div>
 
 <div class="card">
-  <img src="../figs/Queens_building.jpeg" alt="Dartmouth campus" class="card-img">
+  <img src="figs/Queens_building.jpeg" alt="Dartmouth campus" class="card-img">
   <div class="card-body">
     <p class="card-label">Scientometrics</p>
     <h3 class="card-title">
@@ -57,20 +57,20 @@
 <div class="card-grid">
 
 <div class="card">
-  <img class="image-circle" src="https://schnell.host.dartmouth.edu/assets/images/people/abhishek-mallela.jpg" alt="Abhishek Mallela">
+  <img class="image-circle" src="../figs/zxy.jpg" alt="Abhishek Mallela">
   <div class="card-body">
     <p class="card-label">Postdoctoral Fellow</p>
-    <h3 class="card-title"><a href="https://schnell.host.dartmouth.edu/team/#abhishek">Abhishek Mallela</a></h3>
+    <h3 class="card-title"><a href="../team/">Abhishek Mallela</a></h3>
     <p>Abhishek works on parameter estimation of enzyme-catalyzed experiments. He is also
     investigating minimal reaction mechanisms for hormesis.</p>
   </div>
 </div>
 
 <div class="card">
-  <img src="https://schnell.host.dartmouth.edu/assets/images/people/isabella-gimon.jpg" alt="Isabella Gimon" class="card-img">
+  <img src="../figs/zxy.jpg" alt="Isabella Gimon" class="card-img">
   <div class="card-body">
     <p class="card-label">Graduate Student</p>
-    <h3 class="card-title"><a href="https://schnell.host.dartmouth.edu/team/#gimon">Isabella Gimon</a></h3>
+    <h3 class="card-title"><a href="../team/">Isabella Gimon</a></h3>
     <p>Isabella is investigating the effects of macromolecular crowding on protein aggregation using 
     rule-based models.</p>
   </div>
