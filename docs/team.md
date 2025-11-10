@@ -28,16 +28,16 @@ We cultivate a collaborative and creative research environment where generating-
   </div>
 </div>
 
-Xinyi Zhou used to be a B.Eng. student majoring in Control Science and Engineering at East China University of Sci- ence and Technology (ECUST). My overall GPA is 3.57/4.0, ranking 13/87 in this major. In my freshman year, I participated in the Oxford Prospects Programmes in the University of Oxford, where I attended academic lectures and completed academic English workshops conducted by university professors. Dur- ing my sophomore year, I was selected for the Outstanding Innovation Talent Programme in my college (only 6 people from the entire college were selected), which qualified me for a doctoral degree in Con- trol Science and Engineering at my university under the supervision of Professor Zhixing Cao. 
-<hr>
+Xinyi Zhou received bachelor's degree from  East China University of Science and Technology (ECUST) majoring in Control Science and Engineering. He is currently pursuing his doctoral degree at East China University of Science and Technology.
 
-## Postdoctoral Fellows
+His research endeavors to utilize neural networks and machine learning techniques to investigate the transcriptional processes in cells and develop open-source software packages. His research mainly focuses on how to use neural networks to approximate the chemical master  equations of complex biochemical reactions and perform parameter inference.
+<hr>
 
 <div class="image-text-row">
   <img src="../figs/zxy.jpg" alt="Profile">
   <div class="text">
     <h2>Xinyi Zhou</h2>
-          <p> Postdoctoral Research Scientist </p>
+          <p> Phd Student </p>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
           <p><a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
           <p><a> Department of Chemical Engineering </a></p>
@@ -48,8 +48,9 @@ Xinyi Zhou used to be a B.Eng. student majoring in Control Science and Engineeri
   </div>
 </div>
 
-
 Xinyi Zhou used to be a B.Eng. student majoring in Control Science and Engineering at East China University of Sci- ence and Technology (ECUST). My overall GPA is 3.57/4.0, ranking 13/87 in this major. In my freshman year, I participated in the Oxford Prospects Programmes in the University of Oxford, where I attended academic lectures and completed academic English workshops conducted by university professors. Dur- ing my sophomore year, I was selected for the Outstanding Innovation Talent Programme in my college (only 6 people from the entire college were selected), which qualified me for a doctoral degree in Con- trol Science and Engineering at my university under the supervision of Professor Zhixing Cao. 
+
+<!-- ## Postdoctoral Fellows -->
 
 <hr>
 

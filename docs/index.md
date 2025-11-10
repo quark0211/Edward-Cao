@@ -59,18 +59,17 @@
 <div class="card">
   <img class="image-circle" src="figs/zxy.jpg" alt="Xinyi Zhou">
   <div class="card-body">
-    <p class="card-label">Postdoctoral Fellow</p>
+    <p class="card-label">PHD Student</p>
     <h3 class="card-title"><a href="team##PHD Students/">Xinyi Zhou</a></h3>
-    <p>Abhishek works on parameter estimation of enzyme-catalyzed experiments. He is also
-    investigating minimal reaction mechanisms for hormesis.</p>
+    <p>Xinyi Zhou works on parameter inference and approximating the chemical master equations of complex biochemical reactions with neural networks.</p>
   </div>
 </div>
 
 <div class="card">
-  <img src="figs/zxy.jpg" alt="Xinyi Zhou" class="card-img">
+  <img src="figs/zxy.jpg" alt="Yiling Wang" class="card-img">
   <div class="card-body">
-    <p class="card-label">Graduate Student</p>
-    <h3 class="card-title"><a href="team##Postdoctoral Fellows/">Xinyi Zhou</a></h3>
+    <p class="card-label">PHD Student</p>
+    <h3 class="card-title"><a href="team##Postdoctoral Fellows/">Yiling Wang</a></h3>
     <p>Isabella is investigating the effects of macromolecular crowding on protein aggregation using 
     rule-based models.</p>
   </div>
