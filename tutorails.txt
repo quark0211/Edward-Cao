@@ -57,3 +57,20 @@ Collaborators的介绍
 
 Research 
 几个Research项目的详细介绍
+
+
+进入[name]的文件夹，在终端中打开，启动服务器进行本地预览 mkdocs serve,将会出现网址，直接进入即可
+
+md文档和标签页的对应关系
+nav:
+- Home: index.md
+- Edward Cao: EC.md
+- TEAM: 
+        - Team: team.md
+        - Joining the Research Group: join.md
+- RESEARCH: Research.md
+- PUBLICATIONS: Publications.md
+
+直接在这几个md文档中修改，保存后在本地服务器中会直接显示预览效果
+
+

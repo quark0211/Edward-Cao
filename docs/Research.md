@@ -18,7 +18,7 @@ Our research focuses on deriving mathematical approximations of rate law equatio
 
 Our work in enzyme and biochemical kinetics has broad implications for understanding the fundamental principles of biochemical reactions and can inform the development of clinica test, novel therapeutics and biotechnological applications.
 
-![LMA](../figs/LMA.jpg)
+![LMA](figs/LMA.jpg)
 
 # Developing Standards for Reporting Enzymology Data
 
@@ -33,7 +33,7 @@ Our research focuses on deriving mathematical approximations of rate law equatio
 
 Our work in enzyme and biochemical kinetics has broad implications for understanding the fundamental principles of biochemical reactions and can inform the development of clinica test, novel therapeutics and biotechnological applications.
 
-![LMA](../figs/Queens_building.jpeg)
+![LMA](figs/Queens_building.jpeg)
 
 
 

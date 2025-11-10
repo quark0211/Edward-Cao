@@ -10,7 +10,7 @@ We also welcome applicants with interests in the science of science, including t
 
 Applicants are expected to work effectively both independently and in collaboration with other group members and external partners. Intellectual curiosity, scientific rigor, and a collegial approach to interdisciplinary inquiry are essential for thriving in our research environment.
 
-![1](../figs/LMA.jpg)
+![1](figs/LMA.jpg)
 
 ## Graduate Students
 

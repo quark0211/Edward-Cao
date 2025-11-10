@@ -53,7 +53,7 @@ Xinyi Zhou used to be a B.Eng. student majoring in Control Science and Engineeri
 
 <hr>
 
-## Collaborators
+<!-- ## Collaborators
 
 Our group maintains active collaborations with a global network of researchers at the intersection of stochastic modeling, systems biology, and computational science. These collaborations connect theory with experiment, bridging mathematical modeling, machine learning, and single-cell genomics to advance our understanding of gene regulatory dynamics.
 
@@ -93,7 +93,5 @@ We are proud to collaborate with colleagues specializing in stochastic processes
     <p><strong>Jingyi Lu</strong><br>
     <em>East China University of Science and Technology</em><br>
 </div>
-</div>
-
-<!-- "https://quark0211.github.io/Edward-Cao/figs/LJY.jpg" -->
+</div> -->
 

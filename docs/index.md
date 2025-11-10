@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to QUARK
 
 <!-- ![EC](figs/edward_cao2_2025.png)  -->
 <!-- ## [Edward Cao](EC.md) -->
