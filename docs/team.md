@@ -1,6 +1,6 @@
 # Our Team
 
-Our team, led by Zhixing Cao, brings together researchers and students with diverse expertise in mathematics, physics, engineering, and computational biology who share a common goal: to understand and predict the stochastic dynamics of living systems through quantitative and interdisciplinary approaches.
+Our team, led by Edward (Zhixing) Cao, brings together researchers and students with diverse expertise in mathematics, engineering, machine learning, and computational biology who share a common goal: to understand and predict the stochastic dynamics of living systems through quantitative and interdisciplinary approaches.
 
 We cultivate a collaborative and creative research environment where generating-function analysis, stochastic modeling, and machine learning are seamlessly integrated with biological data. Our work bridges theory and experiment, developing analytical and neural-network-based solvers for non-Markovian gene expression models, advancing statistical inference of cellular processes, and driving innovation in systems and synthetic biology.
 
@@ -11,7 +11,7 @@ We cultivate a collaborative and creative research environment where generating-
 
 <hr>
 
-## PHD Students
+## PhD Students
 
 <div class="image-text-row2">
   <img src="../figs/zxy.jpg" alt="Profile">
@@ -20,7 +20,6 @@ We cultivate a collaborative and creative research environment where generating-
           <p> Phd Student </p>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
           <p><a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
-          <p><a> Department of Chemical Engineering </a></p>
           <p> <a href="https://github.com/X-Y-Zhou" target="_blank">Github</a> |
           <a href="../figs/zxy.pdf" target="_blank">Short Biography (PDF)</a>
            </p>
@@ -28,27 +27,9 @@ We cultivate a collaborative and creative research environment where generating-
   </div>
 </div>
 
-Xinyi Zhou received bachelor's degree from  East China University of Science and Technology (ECUST) majoring in Control Science and Engineering. He is currently pursuing his doctoral degree at East China University of Science and Technology.
+Xinyi Zhou received a bachelor's degree from East China University of Science and Technology (ECUST), majoring in Control Science and Engineering. He is currently pursuing doctoral research in computational modeling and parameter inference for stochastic biochemical systems.
 
-His research endeavors to utilize neural networks and machine learning techniques to investigate the transcriptional processes in cells and develop open-source software packages. His research mainly focuses on how to use neural networks to approximate the chemical master  equations of complex biochemical reactions and perform parameter inference.
-<hr>
-
-<div class="image-text-row">
-  <img src="../figs/zxy.jpg" alt="Profile">
-  <div class="text">
-    <h2>Xinyi Zhou</h2>
-          <p> Phd Student </p>
-          <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
-          <p><a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
-          <p><a> Department of Chemical Engineering </a></p>
-          <p> <a href="https://github.com/X-Y-Zhou" target="_blank">Github</a> |
-          <a href="../figs/zxy.pdf" target="_blank">Short Biography (PDF)</a>
-           </p>
-
-  </div>
-</div>
-
-Xinyi Zhou used to be a B.Eng. student majoring in Control Science and Engineering at East China University of Sci- ence and Technology (ECUST). My overall GPA is 3.57/4.0, ranking 13/87 in this major. In my freshman year, I participated in the Oxford Prospects Programmes in the University of Oxford, where I attended academic lectures and completed academic English workshops conducted by university professors. Dur- ing my sophomore year, I was selected for the Outstanding Innovation Talent Programme in my college (only 6 people from the entire college were selected), which qualified me for a doctoral degree in Con- trol Science and Engineering at my university under the supervision of Professor Zhixing Cao. 
+His research uses neural networks, machine learning, and numerical methods to investigate transcriptional processes in cells. He focuses on approximating chemical master equations for complex biochemical reactions and performing parameter inference from stochastic models.
 
 <!-- ## Postdoctoral Fellows -->
 
@@ -95,4 +76,3 @@ We are proud to collaborate with colleagues specializing in stochastic processes
     <em>East China University of Science and Technology</em><br>
 </div>
 </div> -->
-

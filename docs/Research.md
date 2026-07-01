@@ -1,39 +1,43 @@
 # Research
 
-Santiago believes that there is a continuum between health and disease. If we are capable of measuring this continuum, we can revolutionize early disease detection, deepen our understanding of underlying mechanisms, and develop more precise interventions.
+QUARK Laboratory develops mathematical, statistical, and machine-learning tools for understanding stochastic biochemical systems. Led by Edward (Zhixing) Cao, the group focuses on interpretable models of gene expression, efficient solvers for chemical master equations, and parameter-inference methods that connect theory with single-cell data.
 
-Santiago works with a multidisciplinary research team at the intersection of biophysical chemistry, mathematical and statistical modeling, and pathophysiology. Through his diverse research projects, Santiago and his team leverage their interdisciplinary perspective to provide innovative solutions to measure physical constants of biochemical reactions, develop cutting-edge diagnostic tools, and design more effective therapeutic strategies.
+Our work sits at the intersection of stochastic processes, systems biology, synthetic biology, and scientific machine learning. We aim to build computational frameworks that are accurate enough for prediction, transparent enough for mechanism discrimination, and practical enough for collaboration with experimental teams.
 
-# Principles of Enzyme and Biochemical Kinetics
+Across these projects, a common theme is to turn probability-generating-function theory into practical tools for modern single-cell biology. We derive analytical solutions for stochastic gene-expression models when the underlying mechanisms are mathematically tractable, use PGF-based representations to infer mechanistic cell states from multimodal count data, and develop neural-network approximations when non-Markovian dynamics or delayed biochemical reactions make direct solutions computationally difficult. Together, these studies connect exact stochastic theory, scalable inference, and data-driven approximation into a unified framework for understanding how biochemical reaction kinetics shape cellular heterogeneity.
 
-<div class="admonition info">
-  <p class="admonition-title">Project-summary</p>
-    <p><em>We develop standard-based approaches for measuring enzyme kinetic parameters and deriving rate equations that 
-    distinguish the mechanisms of enzyme-catalyzed and other biochemical reactions.</em></p>
-</div>
+## <span class="paper-title">Analytical PGF Solutions and Parameter Inference for Nuclear-Cytoplasmic mRNA</span>
 
-We combine chemical kinetics with mathematical, computational, and statistical methods to develop standard-based approaches, which can distinguish molecular mechanisms under various experimental conditions.
+<figure class="research-figure research-figure-wide">
+  <img src="../figs/prl_gene_expression_model.jpg" alt="Gene expression model with nuclear export and cytoplasmic degradation">
+</figure>
 
-Our research focuses on deriving mathematical approximations of rate law equations that govern the progress curves of enzyme-catalyzed and other biochemical reactions. This involves implementing advanced mathematical techniques for scaling and perturbation analysis. After deriving these approximations, we assess their effectiveness in modeling progress curves and estimating kinetic parameters under different experimental conditions. In addition, we develop and implement algorithms to accurately estimate kinetic parameters directly from progress curve experiments.
+In a recent *Physical Review Letters* study, the group developed an analytical framework for the joint distribution of nuclear and cytoplasmic mRNA levels in stochastic models of gene expression. Instead of treating only the total mRNA abundance in a cell, the model resolves two subcellular stages: mRNA molecules are produced in the nucleus, exported to the cytoplasm after a delay, and then degraded. This structure captures the fact that modern spatial and single-molecule measurements can distinguish where transcripts are located, not just how many are present.
 
-Our work in enzyme and biochemical kinetics has broad implications for understanding the fundamental principles of biochemical reactions and can inform the development of clinica test, novel therapeutics and biotechnological applications.
+The key contribution is an exact steady-state solution for a broad class of transcription initiation models. By combining probability-generating functions with queueing-theory ideas, the work derives the full joint distribution of nuclear and cytoplasmic mRNA counts. This makes it possible to connect mechanistic parameters, such as burst frequency, burst size, export delay, and degradation rate, to experimentally observable distributions.
 
-![LMA](figs/LMA.jpg)
+The paper also shows why subcellular resolution matters for inference. Fitting the joint nuclear-cytoplasmic distribution can improve parameter identifiability compared with fitting total mRNA counts alone. With extrinsic noise included, the framework can quantify bursty expression across many genes and relate inferred kinetic features to biological function. This work illustrates the broader goal of the group: turning stochastic gene-expression theory into practical tools for analyzing single-cell and spatial transcriptomic data.
 
-# Developing Standards for Reporting Enzymology Data
+## <span class="paper-title">PRIME: Mechanistic Cell-State Inference from Multimodal Counts</span>
 
-<div class="admonition info">
-  <p class="admonition-title">Project-summary</p>
-    <p><em>We are developing standards for data reporting enzyme functional data with the aim to improve the quality of data published in the scientific literature.</em></p>
-</div>
+<figure class="research-figure research-figure-large">
+  <img src="../figs/prime.jpg" alt="PRIME workflow for PGF-based inference from multimodal single-cell counts">
+</figure>
 
-We combine chemical kinetics with mathematical, computational, and statistical methods to develop standard-based approaches, which can distinguish molecular mechanisms under various experimental conditions.
+PRIME develops a probability-generating-function framework for inferring mechanistic cell states from multimodal single-cell count data. Modern single-cell assays can measure multiple molecular layers or transcript states, such as unspliced and spliced mRNA counts, but these raw count matrices are noisy, sparse, and strongly affected by technical variation. PRIME addresses this problem by moving the analysis from count space into PGF space, where each cell can be represented through a compact transform of its observed molecular counts.
 
-Our research focuses on deriving mathematical approximations of rate law equations that govern the progress curves of enzyme-catalyzed and other biochemical reactions. This involves implementing advanced mathematical techniques for scaling and perturbation analysis. After deriving these approximations, we assess their effectiveness in modeling progress curves and estimating kinetic parameters under different experimental conditions. In addition, we develop and implement algorithms to accurately estimate kinetic parameters directly from progress curve experiments.
+The central idea is that PGFs preserve information about the full count distribution rather than reducing each gene to a mean or normalized expression value. This makes it possible to compare cells through distributional and mechanistic features that are naturally tied to stochastic reaction models. By using PGF-based representations, PRIME aims to make cell-state inference more robust to noise, sampling variation, and multimodal count structure.
 
-Our work in enzyme and biochemical kinetics has broad implications for understanding the fundamental principles of biochemical reactions and can inform the development of clinica test, novel therapeutics and biotechnological applications.
+The method is designed for scalable analysis of large single-cell datasets. It can be combined with clustering methods such as K-means, Leiden clustering, and fuzzy C-means, while using the PGF representation to improve recovery of biologically meaningful cell states. The paper illustrates how generating-function theory can move beyond closed-form model analysis and become a practical computational layer for multimodal single-cell data analysis.
 
-![LMA](figs/Queens_building.jpeg)
+## <span class="paper-title">Neural-Network Approximation of Non-Markovian Gene Expression</span>
 
+<figure class="research-figure research-figure-large">
+  <img src="../figs/NN_CME.jpg" alt="Neural-network approximation workflow for non-Markovian gene-expression models">
+</figure>
 
+In a *Nature Communications* study, the group introduced a neural-network-aided framework for approximating and inferring non-Markovian models of stochastic gene expression. Non-Markovian models are important because many biochemical processes, such as transcriptional elongation, maturation, transport, and feedback regulation, involve delays or hidden intermediate steps. These models are often difficult to analyze directly because the future dynamics depends on the history of the system, making simulation and parameter inference computationally demanding.
 
+The key idea is to replace a delay chemical master equation, which depends on two-time probabilities, with a simpler neural-network chemical master equation that evolves one-time probability distributions. The neural network learns a time-dependent transition structure from a small amount of noisy trajectory or histogram data, effectively constructing a Markovian surrogate that preserves the observable stochastic dynamics of the original delayed system.
+
+This framework links prediction and inference in a single workflow. During training, the model propagates probability distributions forward in time, compares them with measured data histograms, and updates the neural-network parameters by gradient-based optimization. Once trained, the learned equation can be used to reconstruct probability distributions across time and infer kinetic parameters for delayed gene-expression models. The method is especially useful for systems where direct likelihood evaluation, exhaustive stochastic simulation, or high-dimensional master-equation solvers are too expensive.

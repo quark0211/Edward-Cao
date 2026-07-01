@@ -53,7 +53,7 @@
 
 /* 常用的字体 */
 /* "Noto Sans SC", "Roboto", "Microsoft YaHei", "PingFang SC", sans-serif; */
-/* font-family: "Dartmouth Ruzika", serif; */
+/* font-family: Georgia, serif; */
 
 /* 左边图片右边文字 Edward Cao */
 .image-text-row {
@@ -76,7 +76,7 @@
 }
 
 .image-text-row2 img {
-  width: 250px;
+  width: 180px;
   border-radius: 12px;
   margin-right: 20px;
 }
@@ -127,6 +127,53 @@
   object-fit: cover;
 }
 
+.home-profile-img {
+  width: min(100%, 360px);
+  margin: 0;
+}
+
+.home-profile-bio {
+  font-size: 0.78rem;
+  line-height: 1.6;
+}
+
+.team-card-header {
+  align-items: center;
+  display: flex;
+  gap: 0.9rem;
+  padding: 0.9rem 0.9rem 0;
+}
+
+.team-card-img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin: 0;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.team-card-title {
+  min-width: 0;
+}
+
+.research-figure {
+  margin: 1rem 0 1.2rem;
+}
+
+.research-figure img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: min(100%, 860px);
+}
+
+.md-typeset h2 .paper-title {
+  display: inline-block;
+  font-size: 0.78em;
+  line-height: 1.25;
+}
+
 .card-body {
   padding: 0.9rem;
   font-family: 'National 2', Arial, sans-serif !important;
@@ -135,8 +182,3 @@
 .card-label + .card-title {
   margin-top: 0.1rem !important;
 }
-
-
-
-
-

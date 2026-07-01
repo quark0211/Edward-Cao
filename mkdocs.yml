@@ -36,8 +36,7 @@ theme:
         name: Switch to light mode                    # Tooltip text for the toggle.
 
   font: false                                         # VERY IMPORTANT: Set to 'false' to disable Google Fonts.
-                                                      # This allows your locally hosted custom fonts (@font-face in extra.css)
-                                                      # like "National 2" and "Dartmouth Ruzika" to be used without conflict.
+                                                      # This allows locally hosted custom fonts to be used without conflict.
       # text: Roboto                                  # (Commented out) If 'font: false' was not set, these would define Google Fonts.
       # code: Roboto Mono                             # (Commented out)
 
@@ -57,8 +56,7 @@ extra:
     #   link: [Your LinkedIn Profile URL]
     # - icon: fontawesome/brands/twitter
     #   link: [Your Twitter Profile URL]
-  description: [A short, concise description for meta tags and social sharing]  # Custom description, potentially used in templates.
-                                                                                # Example: "Official academic page of [Your Name], a researcher at Dartmouth."
+  description: QUARK Laboratory at Queen's University, led by Edward Zhixing Cao.
 
 
 markdown_extensions:
@@ -77,8 +75,3 @@ nav:
         - Joining the Research Group: join.md
 - RESEARCH: Research.md
 - PUBLICATIONS: Publications.md
-
-
-
-
-

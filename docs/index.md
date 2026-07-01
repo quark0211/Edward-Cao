@@ -5,15 +5,13 @@
 
 <div class="card-grid">
 <div class="card">
-  <img src="figs/edward_cao2_2025.png" alt="Santiago Schnell" class="card-img">
+  <img src="figs/edward_cao2_2025.png" alt="Edward Cao" class="card-img home-profile-img">
   <div class="card-body">
-    <p class="card-label">Associate Professor</p>
+    <p class="card-label">Assistant Professor</p>
     <h3 class="card-title">
       <a href="EC/">Edward Cao</a>
     </h3>
-    <p>Edward Cao is an Associate Professor of Electrical & Computer Engineering at Queen’s University, Canada. His research centers on developing advanced mathematical and computational frameworks to model stochastic gene expression dynamics with precision, interpretability, and real-world applicability.</p>
-
-    <p>Edward Cao employs generating-function theory, deep learning, and stochastic process analysis to address complex questions in systems and synthetic biology. His theoretical models—ranging from non-Markov transcription–translation kinetics to neural-network-accelerated solvers—act as interpretable tools for mechanism discrimination and parameter inference, and are applied in close collaboration with experimental teams working on single‐cell genomics around the world.</p>
+    <p class="home-profile-bio"><strong>Zhixing Cao (Edward), Ph.D.</strong>, is an Assistant Professor in the Department of Chemical Engineering at Queen’s University. He received his B.Eng. in Automatic Control from Zhejiang University (2012) and Ph.D. in Chemical and Biomolecular Engineering from the Hong Kong University of Science and Technology (2016). He conducted postdoctoral research at Harvard University and the University of Edinburgh, and became a professor at East China University of Science and Technology in 2019. He is a recipient of the NSERC Discovery Grant, MIT Technology Review Innovators Under 35 Asia Pacific (2021), a Nature Communications featured paper in computational life science (2021), the NSFC Outstanding Project Award (2021), the Alibaba Damo Academy Promising Scientist Award (2023), and ScholarGPS Highly Ranked Scholar (top 0.05%) in gene expression (2024). He serves on the editorial boards of The Innovation (IF 25.7), IEEE/CAA Journal of Automatica Sinica (IF 19.2), and others. His research focuses on AI for reaction kinetics, leveraging AI and mathematical modeling to uncover the dynamics of cellular function as a complex biochemical reaction system.</p>
   </div>
 </div>
 </div>
@@ -24,24 +22,24 @@
 
 <div class="card-grid">
 <div class="card">
-  <img src="figs/NN_CME.jpg" alt="Enzyme kinetics" class="card-img">
+  <img src="figs/prl_gene_expression_model.jpg" alt="Gene expression model from Physical Review Letters" class="card-img">
   <div class="card-body">
-    <p class="card-label">Mathematical Biology</p>
+    <p class="card-label">Stochastic Gene Expression</p>
     <h3 class="card-title">
-      <a href="Research/">Principles of Enzyme and Biochemical Kinetics</a>
+      <a href="Research/">Generating-Function Models for Gene Expression</a>
     </h3>
-    <p>We are deriving rate equations and developoing standard based approaches to measure the physical constants of biopchemical reactions.</p>
+    <p>We develop analytical and computational methods for stochastic models of transcription, translation, and single-cell gene-expression dynamics.</p>
   </div>
 </div>
 
 <div class="card">
-  <img src="figs/Queens_building.jpeg" alt="Dartmouth campus" class="card-img">
+  <img src="figs/Queens_building.jpeg" alt="Queen's University campus" class="card-img">
   <div class="card-body">
-    <p class="card-label">Scientometrics</p>
+    <p class="card-label">Computational Systems Biology</p>
     <h3 class="card-title">
-      <a href="Research/">Measuring and Improving Research University Performance</a>
+      <a href="Research/">Machine Learning for Biochemical Networks</a>
     </h3>
-    <p>We are developing new metrics and models to measure and improve performance of scientists, research universities, and academic policies.</p>
+    <p>We build neural-network-accelerated solvers and inference tools for complex biochemical reaction systems.</p>
   </div>
 </div>
 </div>
@@ -57,21 +55,28 @@
 <div class="card-grid">
 
 <div class="card">
-  <img class="image-circle" src="figs/zxy.jpg" alt="Xinyi Zhou">
+  <div class="team-card-header">
+    <img class="team-card-img" src="figs/zxy.jpg" alt="Xinyi Zhou">
+    <div class="team-card-title">
+      <p class="card-label">PHD Student</p>
+      <h3 class="card-title"><a href="team##PHD Students/">Xinyi Zhou</a></h3>
+    </div>
+  </div>
   <div class="card-body">
-    <p class="card-label">PHD Student</p>
-    <h3 class="card-title"><a href="team##PHD Students/">Xinyi Zhou</a></h3>
     <p>Xinyi Zhou works on parameter inference and approximating the chemical master equations of complex biochemical reactions with neural networks.</p>
   </div>
 </div>
 
 <div class="card">
-  <img src="figs/zxy.jpg" alt="Yiling Wang" class="card-img">
+  <div class="team-card-header">
+    <img src="figs/zxy.jpg" alt="Xinyi Zhou" class="team-card-img">
+    <div class="team-card-title">
+      <p class="card-label">PHD Student</p>
+      <h3 class="card-title"><a href="team/">Xinyi Zhou</a></h3>
+    </div>
+  </div>
   <div class="card-body">
-    <p class="card-label">PHD Student</p>
-    <h3 class="card-title"><a href="team##Postdoctoral Fellows/">Yiling Wang</a></h3>
-    <p>Isabella is investigating the effects of macromolecular crowding on protein aggregation using 
-    rule-based models.</p>
+    <p>Our students combine stochastic modeling, machine learning, and numerical computation to study gene-expression dynamics.</p>
   </div>
 </div>
 </div>
@@ -101,5 +106,3 @@
 **[9]** Z. Yu, G. Wang, Q. Jiang\*, X. Yan, **Z. Cao**, "Enhanced variational autoencoder with continual learning capability for multimode process monitoring", *Control Engineering Practice*, **156**: 106219, 2025.
 
 [See Full Publications →](Publications.md)
-
-
