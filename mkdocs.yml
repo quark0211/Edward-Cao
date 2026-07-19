@@ -65,7 +65,9 @@ markdown_extensions:
 extra_css:
   - styles/custom.css
 
-copyright: Queen's University
+copyright: |
+  Queen's University<br>
+  QUARK Laboratory
 
 nav:
 - Home: index.md

@@ -69,14 +69,14 @@
 
 <div class="card">
   <div class="team-card-header">
-    <img src="figs/zxy.jpg" alt="Xinyi Zhou" class="team-card-img">
+    <img src="figs/lsy.jpg" alt="Shiyue Li" class="team-card-img">
     <div class="team-card-title">
       <p class="card-label">PHD Student</p>
-      <h3 class="card-title"><a href="team/">Xinyi Zhou</a></h3>
+      <h3 class="card-title"><a href="team/">Shiyue Li</a></h3>
     </div>
   </div>
   <div class="card-body">
-    <p>Our students combine stochastic modeling, machine learning, and numerical computation to study gene-expression dynamics.</p>
+    <p>Shiyue Li works on probability-generating-function methods for mechanistic inference and cell-state discovery from multimodal single-cell count data.</p>
   </div>
 </div>
 </div>

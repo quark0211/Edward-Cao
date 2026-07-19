@@ -31,6 +31,21 @@ Xinyi Zhou received a bachelor's degree from East China University of Science an
 
 His research uses neural networks, machine learning, and numerical methods to investigate transcriptional processes in cells. He focuses on approximating chemical master equations for complex biochemical reactions and performing parameter inference from stochastic models.
 
+<div class="image-text-row2">
+  <img src="../figs/lsy.jpg" alt="Profile">
+  <div class="text">
+    <h2>Shiyue Li</h2>
+          <p> Phd Student </p>
+          <p>School of Information Science and Engineering</p>
+          <p>East China University of Science and Technology</p>
+
+  </div>
+</div>
+
+Shiyue Li's research focuses on mechanistic inference from multimodal single-cell count data. His work uses probability-generating-function methods, stochastic modeling, and computational learning to identify interpretable cell states and connect observed transcriptional heterogeneity with underlying regulatory dynamics.
+
+He is interested in developing scalable and robust computational approaches for analyzing paired molecular measurements such as unspliced and spliced RNA counts. His research aims to bridge single-cell data analysis with mechanistic models of transcription, helping reveal dynamic cellular states that are difficult to identify using purely descriptive clustering methods.
+
 <!-- ## Postdoctoral Fellows -->
 
 <hr>
