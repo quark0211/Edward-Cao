@@ -6,9 +6,9 @@
   <div class="card-text">
     <h2>Edward Cao</h2>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
-          <p> Assistant Professor of <a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
+          <p> Assistant Professor, <a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
           <p> <a href="https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
-              <a href="https://github.com/edwardcao3026" target="_blank">Github</a>
+              <a href="https://github.com/edwardcao3026" target="_blank">GitHub</a>
            </p>
   </div>
 </div> -->
@@ -18,9 +18,9 @@
   <div class="text">
     <h3>Edward Cao</h3>
           <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
-          <p> Assistant Professor of <a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
+          <p> Assistant Professor, <a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
           <p> <a href="https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
-              <a href="https://github.com/edwardcao3026" target="_blank">Github</a>
+              <a href="https://github.com/edwardcao3026" target="_blank">GitHub</a>
            </p>
           <p> <a href="../figs/Edward_Cao.pdf" target="_blank">Short Biography (PDF)</a></p>
 
@@ -28,11 +28,11 @@
 </div>
 
 
-<!-- Assistant Professor of [Smith Engineering](https://smithengineering.queensu.ca/)
+<!-- Assistant Professor, [Smith Engineering](https://smithengineering.queensu.ca/)
 
 [Queen's University](https://www.queensu.ca/)
 
-[Google Scholar](https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao) | [Github](https://github.com/edwardcao3026) -->
+[Google Scholar](https://scholar.google.com/citations?user=nFoERgMAAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/edwardcao3026) -->
 
 Edward (Zhixing) Cao is an Assistant Professor at Queen’s University, Canada. His research develops mathematical, computational, and AI-assisted methods for understanding stochastic biochemical reaction systems, with a particular focus on gene-expression dynamics at the single-cell level.
 

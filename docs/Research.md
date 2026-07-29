@@ -18,6 +18,8 @@ The key contribution is an exact steady-state solution for a broad class of tran
 
 The paper also shows why subcellular resolution matters for inference. Fitting the joint nuclear-cytoplasmic distribution can improve parameter identifiability compared with fitting total mRNA counts alone. With extrinsic noise included, the framework can quantify bursty expression across many genes and relate inferred kinetic features to biological function. This work illustrates the broader goal of the group: turning stochastic gene-expression theory into practical tools for analyzing single-cell and spatial transcriptomic data.
 
+<p class="representative-publication"><strong>Representative publication:</strong> <a href="https://journals.aps.org/prl/abstract/10.1103/q5sd-tpms" target="_blank">Joint Distribution of Nuclear and Cytoplasmic mRNA Levels in Stochastic Models of Gene Expression: Analytical Results and Parameter Inference</a></p>
+
 ## <span class="paper-title">PRIME: Mechanistic Cell-State Inference from Multimodal Counts</span>
 
 <figure class="research-figure research-figure-large">
@@ -30,6 +32,8 @@ The central idea is that PGFs preserve information about the full count distribu
 
 The method is designed for scalable analysis of large single-cell datasets. It can be combined with clustering methods such as K-means, Leiden clustering, and fuzzy C-means, while using the PGF representation to improve recovery of biologically meaningful cell states. The paper illustrates how generating-function theory can move beyond closed-form model analysis and become a practical computational layer for multimodal single-cell data analysis.
 
+<p class="representative-publication"><strong>Representative publication:</strong> <a href="https://www.biorxiv.org/content/10.64898/2026.06.04.730253v1" target="_blank">PRIME: scalable, robust inference of mechanistic cell states from multimodal single-cell counts via probability generating functions</a></p>
+
 ## <span class="paper-title">Neural-Network Approximation of Non-Markovian Gene Expression</span>
 
 <figure class="research-figure research-figure-large">
@@ -41,3 +45,5 @@ In a *Nature Communications* study, the group introduced a neural-network-aided 
 The key idea is to replace a delay chemical master equation, which depends on two-time probabilities, with a simpler neural-network chemical master equation that evolves one-time probability distributions. The neural network learns a time-dependent transition structure from a small amount of noisy trajectory or histogram data, effectively constructing a Markovian surrogate that preserves the observable stochastic dynamics of the original delayed system.
 
 This framework links prediction and inference in a single workflow. During training, the model propagates probability distributions forward in time, compares them with measured data histograms, and updates the neural-network parameters by gradient-based optimization. Once trained, the learned equation can be used to reconstruct probability distributions across time and infer kinetic parameters for delayed gene-expression models. The method is especially useful for systems where direct likelihood evaluation, exhaustive stochastic simulation, or high-dimensional master-equation solvers are too expensive.
+
+<p class="representative-publication"><strong>Representative publication:</strong> <a href="https://www.nature.com/articles/s41467-021-22919-1" target="_blank">Neural network aided approximation and parameter inference of non-Markovian models of gene expression</a></p>

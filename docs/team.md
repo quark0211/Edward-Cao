@@ -13,38 +13,42 @@ We cultivate a collaborative and creative research environment where generating-
 
 ## PhD Students
 
-<div class="image-text-row2">
-  <img src="../figs/zxy.jpg" alt="Profile">
-  <div class="text">
-    <h2>Xinyi Zhou</h2>
-          <p> Phd Student </p>
-          <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
-          <p><a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
-          <p> <a href="https://github.com/X-Y-Zhou" target="_blank">Github</a> |
-          <a href="../figs/zxy.pdf" target="_blank">Short Biography (PDF)</a>
-           </p>
+<div class="team-profile-grid">
 
+<div class="team-profile-card">
+  <div class="team-profile-header">
+    <img src="../figs/zxy.jpg" alt="Xinyi Zhou" class="team-profile-img">
+    <div class="team-profile-meta">
+      <p class="card-label">PhD Student</p>
+      <h3 class="card-title">Xinyi Zhou</h3>
+      <p><a href="https://www.queensu.ca/" target="_blank">Queen's University</a></p>
+      <p><a href="https://smithengineering.queensu.ca/" target="_blank">Smith Engineering</a></p>
+      <p><a href="https://github.com/X-Y-Zhou" target="_blank">GitHub</a> | <a href="../figs/zxy.pdf" target="_blank">Short Biography (PDF)</a></p>
+    </div>
+  </div>
+  <div class="team-profile-body">
+    <p>Xinyi Zhou received a bachelor's degree from East China University of Science and Technology (ECUST), majoring in Control Science and Engineering. He is currently pursuing doctoral research in computational modeling and parameter inference for stochastic biochemical systems.</p>
+    <p>His research uses neural networks, machine learning, and numerical methods to investigate transcriptional processes in cells. He focuses on approximating chemical master equations for complex biochemical reactions and performing parameter inference from stochastic models.</p>
   </div>
 </div>
 
-Xinyi Zhou received a bachelor's degree from East China University of Science and Technology (ECUST), majoring in Control Science and Engineering. He is currently pursuing doctoral research in computational modeling and parameter inference for stochastic biochemical systems.
-
-His research uses neural networks, machine learning, and numerical methods to investigate transcriptional processes in cells. He focuses on approximating chemical master equations for complex biochemical reactions and performing parameter inference from stochastic models.
-
-<div class="image-text-row2">
-  <img src="../figs/lsy.jpg" alt="Profile">
-  <div class="text">
-    <h2>Shiyue Li</h2>
-          <p> Phd Student </p>
-          <p>School of Information Science and Engineering</p>
-          <p>East China University of Science and Technology</p>
-
+<div class="team-profile-card">
+  <div class="team-profile-header">
+    <img src="../figs/lsy.jpg" alt="Shiyue Li" class="team-profile-img">
+    <div class="team-profile-meta">
+      <p class="card-label">PhD Student</p>
+      <h3 class="card-title">Shiyue Li</h3>
+      <p><a href="https://cise.ecust.edu.cn/" target="_blank">School of Information Science and Engineering</a></p>
+      <p><a href="https://www.ecust.edu.cn/" target="_blank">East China University of Science and Technology</a></p>
+    </div>
+  </div>
+  <div class="team-profile-body">
+    <p>Shiyue Li's research focuses on mechanistic inference from multimodal single-cell count data. His work uses probability-generating-function methods, stochastic modeling, and computational learning to identify interpretable cell states and connect observed transcriptional heterogeneity with underlying regulatory dynamics.</p>
+    <p>He is interested in developing scalable and robust computational approaches for analyzing paired molecular measurements such as unspliced and spliced RNA counts. His research aims to bridge single-cell data analysis with mechanistic models of transcription, helping reveal dynamic cellular states that are difficult to identify using purely descriptive clustering methods.</p>
   </div>
 </div>
 
-Shiyue Li's research focuses on mechanistic inference from multimodal single-cell count data. His work uses probability-generating-function methods, stochastic modeling, and computational learning to identify interpretable cell states and connect observed transcriptional heterogeneity with underlying regulatory dynamics.
-
-He is interested in developing scalable and robust computational approaches for analyzing paired molecular measurements such as unspliced and spliced RNA counts. His research aims to bridge single-cell data analysis with mechanistic models of transcription, helping reveal dynamic cellular states that are difficult to identify using purely descriptive clustering methods.
+</div>
 
 <!-- ## Postdoctoral Fellows -->
 

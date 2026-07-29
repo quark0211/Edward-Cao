@@ -1,30 +1,89 @@
-# Joining our research team
+# Join QUARK Laboratory
 
-## Skills Overview for Research Group
+QUARK Laboratory welcomes curious researchers who want to build quantitative tools for understanding complex biochemical systems. We work at the interface of stochastic modeling, single-cell data analysis, numerical computation, and scientific machine learning.
 
-Edward (Zhixing) Cao welcomes inquiries from prospective graduate students, postdoctoral researchers, visiting scholars, and collaborators who are interested in quantitative approaches to stochastic biochemical systems, systems biology, synthetic biology, and scientific machine learning.
+<div class="join-hero">
+  <div>
+    <p class="join-kicker">Opportunities for students, postdocs, visitors, and collaborators</p>
+    <h2>Build models that connect molecular data with mechanism.</h2>
+    <p>Our group is especially interested in people who enjoy moving between theory, computation, and biological questions. Projects often combine chemical master equations, stochastic simulation, parameter inference, neural-network solvers, and interpretable analysis of cellular dynamics.</p>
+  </div>
+  <div class="join-contact-card">
+    <p class="join-contact-label">Contact</p>
+    <p><strong>Edward (Zhixing) Cao</strong></p>
+    <p><a href="mailto:z.cao@queensu.ca">z.cao@queensu.ca</a></p>
+  </div>
+</div>
 
-Successful applicants typically have strong foundations in applied mathematics, stochastic processes, dynamical systems, statistical modeling, machine learning, or computational biology. Experience with ordinary and stochastic differential equations, chemical master equations, parameter estimation, numerical simulation, and uncertainty quantification is especially valuable.
+## Research Directions
 
-Programming experience in MATLAB, Python, Julia, or C++ is highly desirable, as is familiarity with scientific software tools such as Git, Jupyter, LaTeX, and reproducible computational workflows. Candidates interested in neural-network solvers, stochastic simulation, single-cell data analysis, or interpretable parameter inference are especially encouraged to get in touch.
+<div class="join-card-grid">
+  <div class="join-card">
+    <h3>Stochastic Biochemical Systems</h3>
+    <p>Develop models and inference methods for gene expression, reaction networks, and cellular variability.</p>
+  </div>
+  <div class="join-card">
+    <h3>Single-Cell Data and Mechanism</h3>
+    <p>Connect multimodal molecular measurements with interpretable cell states and regulatory dynamics.</p>
+  </div>
+  <div class="join-card">
+    <h3>Scientific Machine Learning</h3>
+    <p>Design neural-network-aided solvers, scalable approximations, and computational tools for complex stochastic models.</p>
+  </div>
+</div>
 
-Applicants are expected to work effectively both independently and in collaboration with other group members and external partners. Intellectual curiosity, scientific rigor, and a collegial approach to interdisciplinary inquiry are essential for thriving in our research environment.
+## Who We Are Looking For
 
-## Graduate Students
+Strong candidates may come from applied mathematics, engineering, statistics, computer science, physics, computational biology, or related fields. You do not need to fit every category below, but the best fit is usually someone excited by both mathematical structure and real data.
 
-Prospective graduate students interested in joining the group are encouraged to apply through the appropriate graduate program at Queen's University. Applicants should select the program that best matches their academic background and research goals, and should mention their interest in QUARK Laboratory and Edward Cao's research in their application materials.
+<div class="join-highlight-list">
+  <div>
+    <strong>Mathematical modeling</strong>
+    <span>Stochastic processes, dynamical systems, differential equations, chemical master equations, or uncertainty quantification.</span>
+  </div>
+  <div>
+    <strong>Computation</strong>
+    <span>Experience with Python, Julia, MATLAB, C++, Git, numerical simulation, or reproducible research workflows.</span>
+  </div>
+  <div>
+    <strong>Data and learning</strong>
+    <span>Interest in machine learning, statistical inference, single-cell analysis, or interpretable computational biology.</span>
+  </div>
+  <div>
+    <strong>Research style</strong>
+    <span>Curiosity, independence, careful communication, and a collaborative approach to interdisciplinary work.</span>
+  </div>
+</div>
 
-Before contacting the group, prospective students are encouraged to include a brief description of their research interests, relevant coursework or research experience, and representative code, publications, or project materials when available.
+## Opportunities
 
-## Postdoctoral Fellowships and Visiting Researcher Opportunities
+### Graduate Students
 
-Postdoctoral candidates with relevant expertise are welcome to inquire about potential opportunities. Applications should include:
+Prospective graduate students should apply through the appropriate graduate program at Queen's University and mention their interest in QUARK Laboratory and Edward Cao's research in their application materials. When contacting the group, please include a short description of your research interests, relevant coursework or research experience, and any representative code, publications, or project materials.
 
-- A cover letter outlining your research interests.
-- A curriculum vitae (CV).
-- A research proposal (2–3 pages) that situates your work within the context of our research projects and publications.
-- Names and contact information for three references.
+### Postdoctoral Fellows
 
-Please send inquiries to: z.cao@queensu.ca
+Postdoctoral candidates with expertise in stochastic modeling, computational biology, scientific machine learning, numerical methods, or related areas are welcome to inquire about potential opportunities. Please include a curriculum vitae, a brief research statement, and the names and contact information of three references.
 
-The group also welcomes inquiries from self-funded graduate students, postdoctoral fellows, and visiting faculty on sabbatical leave. Please send a cover letter describing your interest in the research group, your full CV, and the names and contact information for references to Dr. Cao at the email address above.
+### Visiting Researchers and Collaborators
+
+The group welcomes inquiries from self-funded visiting students, visiting scholars, faculty on sabbatical leave, and collaborators whose interests overlap with our research program. Please send a short note describing the proposed connection, timeline, and research goals.
+
+## What To Send
+
+<div class="join-steps">
+  <div>
+    <span>1</span>
+    <p>A concise email describing your background and why QUARK Laboratory is a good fit.</p>
+  </div>
+  <div>
+    <span>2</span>
+    <p>Your CV, transcript if relevant, and links to code, papers, thesis work, or project examples.</p>
+  </div>
+  <div>
+    <span>3</span>
+    <p>For postdoctoral or visiting positions, a short research proposal or statement of future directions.</p>
+  </div>
+</div>
+
+<p class="join-final-cta">Send inquiries to <a href="mailto:z.cao@queensu.ca">z.cao@queensu.ca</a>.</p>
